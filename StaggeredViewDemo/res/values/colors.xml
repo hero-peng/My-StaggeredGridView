@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#ffffdc7e</color>
+    <color name="grey">#ffd3d3d3</color>
+    <color name="green">#ff8dd304</color>
+    <color name="blue">#ff82e0ff</color>
+    <color name="yellow">#fffffbae</color>
+    <color name="red">#fff10800</color>
+    <color name="list_item_pressed">#1A000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="myapp_list_row_bg_normal_color">#FAFAFA</color>
+    <color name="myapp_list_row_bg_pressed_color">#D6EBF9</color>
+        <color name="myapp_list_row_title_color">#333333</color>
+</resources>
